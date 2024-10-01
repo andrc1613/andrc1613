@@ -6,7 +6,7 @@
 
 よろしくお願いいたします。
 
-### Tech Stack:
+### Tech Stack
 - Python
 - Go
 - Nodejs
