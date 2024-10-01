@@ -1,4 +1,16 @@
-## Hi there 👋
+# Andrewです。
+
+普通な人です。
+
+特殊技能がありませんが、まだ勉強しています。
+
+よろしくお願いいたします。
+
+### Tech Stack:
+- Python
+- Go
+- Nodejs
+- Google Cloud
 
 <!--
 **andrc1613/andrc1613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
